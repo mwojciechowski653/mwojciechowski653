@@ -19,6 +19,8 @@ I’m a Computer Science student, currently with **BSc in Computer Science (prac
 
 **Numerical Errors in Random Path Simulation** – A **research-oriented project** analyzing how numerical errors increase and affect the results of computer calculations. Research made in **Golang**, data **visualized in Python**. Planned release: **late-September**.
 
+---
+
 ### 🛠️ Tech Stack
 
 - **Databases**: MySQL, PostgreSQL, MongoDB, Neo4j
