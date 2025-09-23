@@ -15,9 +15,9 @@ I’m a Computer Science student, currently with **BSc in Computer Science (prac
 
 ### 🔜 Currently Developing
 
-**Public Transport and Users Report Web App** – based on [Trójmiasto.pl](https://www.trojmiasto.pl/) **"report"** and **"communication"** sections, fullstack solo project in **React.js (SPA) + Node.js (Express) + MongoDB + Keycloak (OAuth 2.0) + Kubernetes**. Planned release: **mid-September**.
+**Public Transport and Users Report Web App** – based on [Trójmiasto.pl](https://www.trojmiasto.pl/) **"report"** and **"communication"** sections, fullstack solo project in **React.js (SPA) + Node.js (Express) + MongoDB + Keycloak (OAuth 2.0) + Kubernetes**. Planned release: **30.09.2025**.
 
-**Numerical Errors in Random Path Simulation** – A **research-oriented project** analyzing how numerical errors increase and affect the results of computer calculations. Research made in **Golang**, data **visualized in Python**. Planned release: **late-September**.
+**Numerical Errors in Random Path Simulation** – A **research-oriented project** analyzing how numerical errors increase and affect the results of computer calculations. Research made in **Golang**, data **visualized in Python**. Planned release: **07.10.2025**.
 
 ---
 
