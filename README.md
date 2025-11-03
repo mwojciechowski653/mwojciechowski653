@@ -15,9 +15,11 @@ I’m a Computer Science student, currently with **BSc in Computer Science (prac
 
 ### 🔜 Currently Developing
 
-**Public Transport and Users Report Web App** – based on [Trójmiasto.pl](https://www.trojmiasto.pl/) **"report"** and **"communication"** sections, fullstack solo project in **React.js (SPA) + Node.js (Express) + MongoDB + Keycloak (OAuth 2.0) + Kubernetes**. Planned release: **end of October**.
+Currently, I'm developing a **desktop app for a private client** - a local gym. The main functionalities are: gym membership management system and booking system for activities (sessions with personal trainer, group workouts etc.). Technologies being used: **Python**, **CustomTkinter**, and **PostgreSQL**.
 
-**Numerical Errors in Random Path Simulation** – A **research-oriented project** analyzing how numerical errors increase and affect the results of computer calculations. Research made in **Golang**, data **visualized in Python**. Planned release: **mid November**.
+**Public Transport and Users Report Web App** – based on [Trójmiasto.pl](https://www.trojmiasto.pl/) **"report"** and **"communication"** sections, fullstack solo project in **React.js (SPA) + Node.js (Express) + MongoDB + Keycloak (OAuth 2.0) + Kubernetes**.
+
+**Numerical Errors in Random Path Simulation** – A **research-oriented project** analyzing how numerical errors increase and affect the results of computer calculations. Research made in **Golang**, data **visualized in Python**.
 
 ---
 
